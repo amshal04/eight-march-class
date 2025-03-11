@@ -1,3 +1,4 @@
+var num = 3.8;
 console.log(Math.round(num));
 console.log(Math.floor(num));
 
